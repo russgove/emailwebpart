@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/email/EmailWebPart.js",
+      "manifest": "./src/webparts/email/EmailWebPart.manifest.json",
+      "outputPath": "./dist/email.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "emailStrings": "webparts/email/loc/{locale}.js"
+  }
+}

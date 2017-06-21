@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "emailwebpart",
+    "framework": "react",
+    "version": "1.0.2",
+    "libraryId": "f1416f87-593c-4f37-89c6-470861642c1b"
+  }
+}

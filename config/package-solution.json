@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "emailwebpart-client-side-solution",
+    "id": "f1416f87-593c-4f37-89c6-470861642c1b",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/emailwebpart.sppkg"
+  }
+}
